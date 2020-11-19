@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap'); /*Montserrat*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap'); /*Roboto Mono*/
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Display&display=swap'); /*Big Shoulders Stencil Display*/
+h1 {
+  font-family: Big Shoulders Stencil Display;
+}
+p {
+  font-family: Roboto Mono;
+}
+h3 {
+  font-family: Montserrat;
+}
+.instructions {
+  font-size: 30px;
+}
